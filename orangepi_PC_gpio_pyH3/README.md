@@ -1,46 +1,15 @@
-# orangepi_PC_gpio_pyH3
-python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
+# A20
 
+## Install
 
-open source   modified  base on  pyA20 
+```
+python setup.py install
+```
 
-reference 
-https://www.olimex.com/wiki/A20-OLinuXino-MICRO
-pyA20 
-https://pypi.python.org/pypi/pyA20
+## Ref.
+
+- https://www.olimex.com/wiki/A20-OLinuXino-MICRO
+- https://pypi.python.org/pypi/pyA20
 
 install ::
-	
-	python setup.py install 
-
-
-
-author :duxingkei chow
-email :277563381@qq.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+python setup.py install
